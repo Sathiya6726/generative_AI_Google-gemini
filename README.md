@@ -1,0 +1,2 @@
+# generative_AI_Google-gemini
+GOOGLE GEMINI POWERED LEARNING ASSISTANT 
